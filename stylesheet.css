@@ -1,0 +1,59 @@
+
+body {
+	font: 16px Helvetica, Sans-Serif;
+    background: url(noise.png);
+}
+
+#content {
+	width: 900px;
+	margin: auto;	
+	border-style: groove;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+
+#contact{
+	border-bottom: thin solid black;
+	margin-top:30px;
+	font-size: 21px;
+	font-weight: bold;
+	text-align:center;	
+}
+
+#summary{
+	text-align:center;
+	border-bottom: thin solid black;
+}
+
+h2,h6{
+	margin-bottom:1px;
+	margin-top:2px;
+}
+
+#prof-exp-header{
+	font-size:21px;
+	text-align:center;
+	margin-top:20px;
+	margin-bottom: 70px;
+}
+
+#project-header{
+	font-size:18px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+#role{
+	font-weight: bold;
+	font-style: italic;
+	margin-bottom: -10px;
+}
+
+.date {
+	float: right;
+	margin-bottom: -10px;
+}
+
+#pic {
+	float: right;
+}
